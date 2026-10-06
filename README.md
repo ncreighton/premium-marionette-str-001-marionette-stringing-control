@@ -1,0 +1,2 @@
+# premium-marionette-str-001-marionette-stringing-control
+Stop guessing string lengths and wrestling with tangled control bars. The Marionette Stringing &amp; Control Bar Craft Hub turns your Notion workspace into a precision engineering lab for your puppets.  This template eliminates the trial-and-error of marionette stringing by providing a centralized database for each puppet's stringing specs, control bar
